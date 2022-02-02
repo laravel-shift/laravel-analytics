@@ -21,17 +21,17 @@
     ],
     "require": {
         "php": "^8.0",
-        "google/apiclient": "^2.7",
+        "google/apiclient": "^2.12",
         "laravel/framework": "^9.0",
-        "nesbot/carbon": "^2.0",
+        "nesbot/carbon": "^2.56",
         "spatie/laravel-package-tools": "^1.9",
         "symfony/cache": "^6.0"
     },
     "require-dev": {
-        "league/flysystem": "^2.0|^3.0",
-        "mockery/mockery": "^1.4",
+        "league/flysystem": "^2.4",
+        "mockery/mockery": "^1.4.4",
         "orchestra/testbench": "^7.0",
-        "phpunit/phpunit": "^9.4"
+        "phpunit/phpunit": "^9.5.10"
     },
     "autoload": {
         "psr-4": {
